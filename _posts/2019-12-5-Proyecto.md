@@ -14,7 +14,7 @@ Se pueden dividir en dos categorias:
 ### Software de aplicaciones: 
 se usan para proveer servicios a clientes y ejecutar negocios de forma más eficiente. El software de aplicaciones puede ser un sistema pequeño o uno grande integrado.
 
-## Software de sistemas: 
+### Software de sistemas: 
 El software de sistemas se usa para operar y mantener un sistema informático. Permite a los usuarios usar los recursos del ordenador directamente y a través de otro software.
 
 
