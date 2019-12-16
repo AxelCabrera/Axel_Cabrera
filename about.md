@@ -12,4 +12,4 @@ Nada que decir, aprendo a programar.
 
 [addkim.ac@gmail.com](mailto:email@domain.com)
 
-[alex.cabreraa@gmail.com](mailto:email@domain.com)
+[alex.cabreraa@ug.edu.ec](mailto:email@domain.com)
