@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Breve historia de la Ingenieria de Software: Origen, evolucion, crisis y el software en la actualidad
+title: Breve historia de la IS: Origen, evolucion, crisis y el software en la actualidad
 ---
 
 ## Origen
