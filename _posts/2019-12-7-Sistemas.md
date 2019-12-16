@@ -68,7 +68,7 @@ Sin embargo otro autor (s/a, 2008a) menciona que un sistema de información cons
 
 Otro autor desconocido (s/a, 2008b) plantea que un sistema de información está compuesto por 6 elementos claramente identificables, tal y como se muestran en la siguiente figura:
 
-[Sistema de informacion]({{ site.baseurl }}/images/Imagen4)
+[Sistemas de informacion]({{ site.baseurl }}/images/Imagen4.jpg)
 
 ### Base de Datos: 
 Es donde se almacena toda la información que se requiere para la toma de decisiones. 
