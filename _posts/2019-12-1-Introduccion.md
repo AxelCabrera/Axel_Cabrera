@@ -39,7 +39,3 @@ La ingeniería de software es una aplicación práctica del conocimiento cientí
 -Liderar y orientar a los programadores durante el desarrollo de aplicaciones.
 -Incluir  procesos de calidad en los sistemas, calculando métricas e indicadores y chequeando la calidad del software producido.
 
-
-
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
