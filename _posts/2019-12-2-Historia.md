@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Historia de la IS: origen, evolucion, crisis y el software en la actualidad
+title: Origen, evolucion, crisis y el software en la actualidad
 ---
 
 ## Origen
