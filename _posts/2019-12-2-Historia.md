@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IS: Origen, evolucion, crisis y el software en la actualidad
+title: IS Origen, evolucion, crisis y el software en la actualidad
 ---
 
 ## Origen
