@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Prueba de link"
-permalink: /index/
+permalink: /Index/
 ---
 
 prueba de pagina nueva
