@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Prueba de link"
+title: "Indice de clases"
 permalink: /Index/
 ---
 
-prueba de pagina nueva
+Aqui puede ver las clases agregadas, empezando con la mas reciente:
 
 
 <div class="posts">
