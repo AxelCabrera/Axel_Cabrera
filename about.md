@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: Acerca de mi
 permalink: /about/
 ---
 
 Nada que decir, aprendo a programar.
 
-### Contact me
+### Contactame
 
 [megatunder@hotmail.com](mailto:email@domain.com)
 
