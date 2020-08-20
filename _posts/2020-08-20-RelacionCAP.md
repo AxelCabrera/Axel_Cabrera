@@ -3,7 +3,7 @@ layout: post
 title: Relaciones cliente-analista-programador
 ---
 
-![Relaciones](/images/relacion2.png)
+![Relaciones](https://arandasoft.com/wp-content/uploads/2017/01/mejore-la-relacion-del-equipo-de-it-con-los-clientes-internos.png)
 
 Las bases de la ingeniería en software nos indican la importancia de la comunicación que debe haber entre las partes involucradas en un proyecto Software. Para iniciar, si simplemente no hay una persona con una necesidad, no hay razón para programar (concepto aplicable en casi todos los ámbitos de hecho); sin embargo, al nacer una necesidad y al haber una (o más) persona dispuesta a automatizar una solución también dará lugar a los obstáculos del entendimiento: es decir, que tan bien se **entiende lo que se necesita hacer. **
 
@@ -13,6 +13,6 @@ Tener un modelo aplicable es bastante útil a la hora de desarrollar un software
 
 Sin embargo, es importante recalcar que sin importar que tanto esfuerzo se ponga en la recolección de datos, ***no siempre se terminara recolectando toda la información necesaria.*** Esto se vuelve especialmente cierto cuando se trabajó en una compañía y los clientes a los que va dirigido tu producto Software son muchos, ya que estos siempre tendrán exigencias diferentes (en muchas ocasiones, descabelladas) y no siempre pueden ser completamente interpretadas por el analista (más que nada porque es imposible el lograr una entrevista con cada uno de los clientes a los que se dirige el producto), haciendo que la paradoja del cliente-analista programador sea eterna.
 
-![Paradoja eterna de la calidad](/images/relacion.jpg)
+![Paradoja eterna de la calidad](https://mundoerp.com/wp-content/uploads/2013/04/leyes-murphy.jpg)
 
 Aun así, simplemente no se pueden dejar los requerimientos/requisitos al aire; conseguir la mayor cantidad de información necesaria para que el producto sea de calidad, es la maldición de los equipos de programadores: por más extenuante que sea esta tarea, el realizarla cuidadosamente definirá el éxito o fracaso del proyecto.
