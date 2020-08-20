@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Importancia de la seguridad en la actualidad
+title: Importancia del correcto desarrollo de la seguridad de un proyecto en la actualidad
 ---
 ## La tecnología evoluciona cada día, pero eso también implica que los peligros evolucionan junto con ella.
 Hace unas horas (aproximadamente un día desde esta publicación) se puede encontrar una noticia que llama la atención: 
