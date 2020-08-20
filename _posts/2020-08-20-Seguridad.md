@@ -12,6 +12,6 @@ Esto no es solo un suceso reciente, sino que, al continuar búsquedas en cuanto 
 
 Hoy en día se ofrecen tantas herramientas para la creación de aplicaciones y servicios webs, esto facilita el trabajo para programadores, pero también para hackers, por lo que es un arma de doble filo. Debido a esto durante los años de aprendizaje es demasiado importante que los educadores logren hacer entenderé que tan importante es el crear softwares con fuertes medidas de seguridad, que tengan la menor cantidad de errores posibles y, sobre todo, que hayan pasado por las **debidas pruebas y validaciones necesarias. ** Sin importar que tan largas puedan llegar a ser, enfatizar la importancia de la prueba de seguridad de un producto es bastante importante.
 
-![Enorme filtrado de información](/images/pishing.jpg)
+![Enorme filtrado de información](https://www.itsitio.com/wp-content/uploads/2019/06/50605-780x405.jpg)
 
 Mientras que es verdad que muchas veces escapa nuestro control, ya que los hackers se caracterizan por romper las medidas de seguridad por más fuertes que sean, es debido a esto justamente que llevar un control constante de nuestro código es esencial; de trabajar en un proyecto con tan alta necesidad de seguridad implica que no solo se debe mejorar las funciones del producto, sino también su sistema contra amenazas para reducir la vulnerabilidad de esto contra los ataques externos.
