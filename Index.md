@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Indice de clases"
+title: "Indice del Blog"
 permalink: /Index/
 ---
 
-Aqui puede ver las clases agregadas, empezando con la mas reciente:
+Aqui puede ver las entradas en el Blog, empezando con la mas reciente:
 
 
 <div class="posts">
