@@ -4,10 +4,10 @@ title: Acerca de mi
 permalink: /about/
 ---
 
-Infancia relativamente normal, sin mucho que decir. Me destaque en materias matematicas e ingles. En el colegia, durante 10mo año fue elegido junto a otros 20 estudiantes con las notas mas altas en ingles para dar un examen de grado B1 en el international house(certificados por cambridge para entregar titulos de su misma institucion). 
-Actualmente posea un titulo de grado B2 que tambien certifica conocimientos de grado C1. 
+Infancia relativamente normal, sin mucho que decir. Me destaque en materias matemáticas e inglés. En el colegio, durante 10mo año fui elegido junto a otros 20 estudiantes con las notas más altas en inglés para dar un examen de grado B1 en el international house(certificados por Cambridge para entregar títulos de su misma institución). 
+Actualmente poseo un título de grado B2 que también certifica conocimientos de grado C1. 
 
-Estuve por 1 año entrenando baseball en la liga del sur, sin embargo no estuve en ningun juego mayor. 
+Estuve por 1 año entrenando baseball en la liga del sur, sin embargo, no estuve en ningún juego mayor.
 
 
 ### Contactame
